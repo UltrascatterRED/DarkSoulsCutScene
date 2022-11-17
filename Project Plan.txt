@@ -2,10 +2,11 @@ IDEA:
 Boss cutscene (Dark Souls style). Player opens door, enters boss room. Boss is large, stands  up, draws big weapon, brandishes. Fade to black
 
 Shot 1: Player opens large cathedral double doors, walks into boss room
-Shot 1a: Player walking, camera is inside room facing doors
 
-Shot 2: Cut to boss sitting on throne. Boss reanimates, gets up
+Shot 2: Player walking, camera is inside room facing doors. Pan to boss sitting on throne. 
 
-Shot 3: Cut to weapon in ground, boss hand comes in to grab weapon, pick/pull up
+Shot 3: Boss reanimates, gets up
 
-Shot 4: Boss assumes fighting stance, camera zooms back from boss, brings player into foreground, fade to black
+Shot 4: Cut to weapon in ground, boss hand comes in to grab weapon, pick/pull up
+
+Shot 5: Boss assumes fighting stance, camera zooms back from boss, brings player into foreground, fade to black
